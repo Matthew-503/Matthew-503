@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I'm a Software Development student at SAIT -School for Advance Digital Technology<br>📚 I'm currently learning the MERN stack<br>🎯 Goals: Become a front-end web developer<br>🎲 Fun fact: I've just started my journey in Computer Science since 2021</p>
+<p align="left">✨ I'm a Software Development student at SAIT -School for Advance Digital Technology<br>📚 I'm currently working on an e-commerce website and a functional dashboard<br>🎯 Goals: Become a front-end web developer<br>🎲 Fun fact: I've just started my journey in Computer Science since 2021</p>
 
 ###
 
